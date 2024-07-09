@@ -1,0 +1,1 @@
+function getSearchParams(a,e){return new URL(a).searchParams.get(e)}export{getSearchParams};

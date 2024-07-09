@@ -1,0 +1,1 @@
+function setTextContent(t,e){document.querySelector(t).textContent=e}function addClass(t,e){t.classList.add(e)}function removeClass(t,e){t.classList.remove(e)}export{setTextContent,addClass,removeClass};
